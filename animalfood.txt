@@ -3,3 +3,6 @@ Chawal
 Dal
 Pedegree
 Kukkad
+titli
+Gitli
+Metli
