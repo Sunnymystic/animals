@@ -4,5 +4,5 @@ Dal
 Pedegree
 Kukkad
 titli
-Gitli
-Metli
+Bone
+People
