@@ -6,3 +6,5 @@ Kukkad
 titli
 Bone
 People
+chocolates
+biscuits
